@@ -1,33 +1,17 @@
-ABOUT ME:
+Despite having no prior experience with Vue.js, I am confident that I can learn and adapt quickly due to my solid foundation in technologies and self-taught ability. Vue.js offers a significantly lower learning curve compared to React, allowing me to confidently tackle new challenges.
 
-I consider myself efficient, proactive, and self-taught, with skills for both teamwork and individual tasks.
-My greatest potential lies in being self-taught because, as a result, I managed to grow, evolve, and learn all the technologies mentioned below.
+With over 7 years of web development experience, including 2 years of corporate work, I have specialized in creating and optimizing software solutions for both front-end and back-end. I have used technologies such as HTML, CSS, JavaScript, ReactJS, PHP, and NodeJS Express, among others. In my previous position at Previlabor, I made a significant contribution to improving internal processes, notably implementing an automatic document generation system and a REST web API service for Laboratorios Echevarne, which resulted in a 15% efficiency increase. Additionally, I achieved a notable optimization in the generation of PDF documents in the company's ERP, reducing processing time from one hour to just 4 seconds.
 
-ACHIEVEMENTS AND PROFESSIONAL GROWTH:
+At Grupo Backup, I developed projects using PHP and JavaScript natively to manage invoices, which considerably increased production and sales by eliminating the need for paper documents. In addition to professional projects, I have also created personal projects:
 
-The following developments I describe below are all developed with ReactJS / JavaScript native / Bootstrap / CSS3 flexbox / HTML5 / PHP OOP / PDO MySQL / PDO Firebird / WebServices REST, TCP, or FTP.
+Both projects are available in my portfolio on GitHub, which you can visit at https://igvdeveloper.com, where I provide details about their functionality and code.
+PHPTESTER: An application that allows you to compile PHP code, from basic to advanced. It offers a panel where you can adjust the font size and two text areas: one on the left to write the code and another on the right to see the output, whether successful or with corresponding errors.
+Highlighted skills: Databases, Bootstrap, Web Performance, Optimization, Independent Work, Attention to Detail, CSS Flexbox, Socket Programming, JavaScript.
 
-At GROUP BACKUP (a company focused on the development of electronic invoicing, records, and electronic signatures):
+SPA User CRUD: An application that allows you to add, delete, and update users asynchronously using JavaScript fetch, without the need to refresh the browser. This improves the user experience and makes the browser more useful.
+Highlighted skills: Databases, Bootstrap, Independent Work, React.js, MySQL, CSS Flexbox, JavaScript, PHP.
 
-  -Regarding front-end development:
+Dashboard Store: A dashboard for an online store with a shopping cart. You can add products to the cart, temporarily save them as favorites, and, if you register and log in, manage your orders, receive notifications from other users, and share your purchases.
+The code for this project is available on GitHub for review.
 
-    As it was my first job and I had no prior experience as a developer, I didn't do much design, but during my time there, I managed to learn Bootstrap since it was widely used at that time and essential for meeting tight client deadlines. In the last few months, I also learned CSS3 flexbox as it became popular in web technology and was very           practical for design. I used these technologies for Bootstrap applications for data management in tables and forms. Still, for most of the forms, I used CSS3 since Bootstrap had some limitations.
-
-  -Regarding FullStack development:
-
-    I primarily developed applications to manage both user data and database data provided by clients, with the goal of improving optimization and management.
-    In the last few months, I worked on an inventory system to handle stored invoices, which the application managed in tables with necessary filters.
-
-At PREVILABOR (a Occupational Risk Prevention company focused on the development of invoicing, documents, records, and health-related tasks such as medical examinations, analytics, and evaluations for various companies, ensuring the safety of their facilities and employees):
-
-  -Regarding front-end development:
-
-    I designed various elements of applications using Bootstrap and CSS3 flexbox, including forms, selectors, and tables, both manual and dynamic, to enhance the user experience. I mostly focused on forms, as most applications were used to manage Excel, PDF, or Word documents. I worked on different platforms, including:
-    In WordPress: WordPress is a CMS (Content Management System) that comes with pre-implemented CSS3 frameworks. While it offered templates, I was limited in terms of Bootstrap due to predefined classes, so I often used CSS3 and flexbox to add new functionalities and design elements.
-    In the root directory of the Apache server: Since WordPress was not used here, I had more freedom to design from scratch, using Bootstrap for quick projects and CSS3 for custom functionalities integrated into the required applications.ç
-    
-  -Regarding FullStack development:
-
-    I worked on software development projects at Echevarne, and one of the notable achievements was the creation of a PHP-based web service. This service facilitated the sending and retrieval of results for analysts who sent us their data, significantly reducing the execution time of this process. We received samples at Echevarne's laboratories,        and they sent us data files that we had to process to provide workers with the results of their tests.
-    During my time there, the company faced challenges with their ERP system (Enterprise Resource Planning), especially in generating PDFs for worker requests, causing significant delays. To address this, I took the initiative to develop an application using asynchronous PHP, ReactJS, and Vanilla JavaScript. This new application allowed users to        generate PDFs and perform the same functions as the ERP, resulting in a substantial reduction in execution times and increased worker productivity.
-    Another situation arose where workers needed to generate PDF documents with digital signatures, but the existing solution was costly. Therefore, I undertook the development of an algorithm within the code to handle PDF document generation with digital signatures. Although it was a complex task and took some time, I successfully completed it         ahead of schedule, impressing my boss with the incredible solution I delivered.
+My professional career began as a self-taught individual from home, driven by my passion for learning, taking on new challenges, and constantly improving my programming, logic, and performance skills. My focus in this field is not limited to fulfilling a dream of working in front of a computer, but is based on my determination to stand out and my desire to share my knowledge with the world. The self-taught approach has allowed me to acquire additional skills and learn new technologies, such as Tailwind and MaterialUI, which have made me more agile and versatile in development.
