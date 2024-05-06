@@ -44,12 +44,12 @@
 - **Acortador de URLS** Acortador de Urls. El [proyecto](https://linkshort.website/).
 
 ## GitHub Stats
-- 58.33% CSS
-- 33.33% TypeScript
-- 8.33% JavaScript
+- 18.33% CSS
+- 3.33% TypeScript
+- 80.33% JavaScript
 - Total Stars Earned: `10`
 - Total Commits: `787`
-- Total PRs: `48`
-- Total Issues: `60`
-- Contributed to last year: `7`
+- Total PRs: `0`
+- Total Issues: `0`
+- Contributed to last year: `0`
 - GitHub Rating: B-
