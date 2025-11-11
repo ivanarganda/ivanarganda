@@ -1,10 +1,29 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=1000&color=00B4FF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Iván+González+Vallés;💡+Data+Analyst+%7C+Python+%26+Web+Developer;🚀+AI+and+Big+Data+Enthusiast;🎯+Turning+data+into+intelligent+experiences!)
+<!-- 🌍 GITHUB PROFESSIONAL PROFILE | Iván González Vallés -->
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2800&pause=1000&color=00B4FF&center=true&vCenter=true&width=650&lines=👋+Hi%2C+I'm+Iván+González+Vallés;💡+Data+Analyst+%7C+Python+%26+Web+Developer;🚀+AI+and+Big+Data+Enthusiast;🎯+Turning+data+into+intelligent+experiences!)
+
+## ⚡ Skill Snapshot
+
+🎨 **Tech Stack Overview**
+
+`Python` • `Flask` • `FastAPI` • `Flet` • `Pandas` • `Power BI` • `Plotly` • `SQLite` • `HTML` • `CSS` • `JavaScript` • `React`
+
+## 🎯 My Progress
+
+| Skill | Progress | Description |
+|-------|-----------|--------------|
+| 🐍 **Python Development** | ![Progress](https://progress-bar.dev/95/?title=Expert&color=00B4FF) | Building apps, APIs, and automation tools |
+| ⚙️ **Flask / FastAPI** | ![Progress](https://progress-bar.dev/85/?title=Advanced&color=0099DD) | Scalable backends, authentication, async requests |
+| 📊 **Power BI / Data Analytics** | ![Progress](https://progress-bar.dev/90/?title=Advanced&color=0078D4) | KPI dashboards, DAX, time intelligence |
+| 🤖 **Machine Learning** | ![Progress](https://progress-bar.dev/80/?title=Strong&color=22C55E) | Regression, forecasting, model deployment |
+| 🎨 **UI/UX & Web Design** | ![Progress](https://progress-bar.dev/88/?title=Proficient&color=F59E0B) | Glassmorphism, modern layouts, responsive design |
+| 🚀 **Async & API Integration** | ![Progress](https://progress-bar.dev/75/?title=Good&color=14B8A6) | AsyncIO, threading, API pipelines |
+
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivangonzalezvalles@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ivanarganda)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-gonzalez-valles)
 
----
 
 ## 🧠 About Me / Sobre mí
 
