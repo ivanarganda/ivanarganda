@@ -13,9 +13,9 @@
 | Skill | Progress | Description |
 |-------|-----------|--------------|
 | 🐍 **Python Development** | <img src="progress-85.svg" width="100"> | Building apps, APIs, and automation tools |
-| ⚙️ **Flask / FastAPI** | <img src="progress-85.svg" width="100"> | Scalable backends, authentication, async requests |
+| ⚙️ **Flask / FastAPI** | <img src="progress-70.svg" width="100"> | Scalable backends, authentication, async requests |
 | 📊 **Power BI / Data Analytics** | <img src="progress-85.svg" width="100">| KPI dashboards, DAX, time intelligence |
-| 🤖 **Machine Learning** | <img src="progress-85.svg" width="100"> | Regression, forecasting, model deployment |
+| 🤖 **Machine Learning** | <img src="progress-50.svg" width="100"> | Regression, forecasting, model deployment |
 | 🎨 **UI/UX & Web Design** | <img src="progress-85.svg" width="100"> | Glassmorphism, modern layouts, responsive design |
 | 🚀 **Async & API Integration** | <img src="progress-85.svg" width="100"> | AsyncIO, threading, API pipelines |
 
