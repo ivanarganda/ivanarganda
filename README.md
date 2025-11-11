@@ -1,5 +1,4 @@
-# 👋 Hi, I'm **Iván González Vallés**
-### 💡 Data Analyst · Python & Web Developer · AI & Big Data Enthusiast
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=1000&color=00B4FF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Iván+González+Vallés;💡+Data+Analyst+%7C+Python+%26+Web+Developer;🚀+AI+and+Big+Data+Enthusiast;🎯+Turning+data+into+intelligent+experiences!)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivangonzalezvalles@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ivanarganda)
