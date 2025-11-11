@@ -12,12 +12,12 @@
 
 | Skill | Progress | Description |
 |-------|-----------|--------------|
-| 🐍 **Python Development** | <img src="assets/python.svg" width="100"> | Building apps, APIs, and automation tools |
-| ⚙️ **Flask / FastAPI** | ![Progress](https://progress-bar.dev/85/?title=Advanced&color=0099DD) | Scalable backends, authentication, async requests |
-| 📊 **Power BI / Data Analytics** | ![Progress](https://progress-bar.dev/90/?title=Advanced&color=0078D4) | KPI dashboards, DAX, time intelligence |
-| 🤖 **Machine Learning** | ![Progress](https://progress-bar.dev/80/?title=Strong&color=22C55E) | Regression, forecasting, model deployment |
-| 🎨 **UI/UX & Web Design** | ![Progress](https://progress-bar.dev/88/?title=Proficient&color=F59E0B) | Glassmorphism, modern layouts, responsive design |
-| 🚀 **Async & API Integration** | ![Progress](https://progress-bar.dev/75/?title=Good&color=14B8A6) | AsyncIO, threading, API pipelines |
+| 🐍 **Python Development** | <img src="progress-85.svg" width="100"> | Building apps, APIs, and automation tools |
+| ⚙️ **Flask / FastAPI** | <img src="progress-85.svg" width="100"> | Scalable backends, authentication, async requests |
+| 📊 **Power BI / Data Analytics** | <img src="progress-85.svg" width="100">| KPI dashboards, DAX, time intelligence |
+| 🤖 **Machine Learning** | <img src="progress-85.svg" width="100"> | Regression, forecasting, model deployment |
+| 🎨 **UI/UX & Web Design** | <img src="progress-85.svg" width="100"> | Glassmorphism, modern layouts, responsive design |
+| 🚀 **Async & API Integration** | <img src="progress-85.svg" width="100"> | AsyncIO, threading, API pipelines |
 
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivangonzalezvalles@gmail.com)
