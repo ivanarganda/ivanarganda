@@ -12,7 +12,7 @@
 
 | Skill | Progress | Description |
 |-------|-----------|--------------|
-| 🐍 **Python Development** | ![Progress](https://progress-bar.dev/95/?title=Expert&color=00B4FF) | Building apps, APIs, and automation tools |
+| 🐍 **Python Development** | ![Progress](progress-85.svg) | Building apps, APIs, and automation tools |
 | ⚙️ **Flask / FastAPI** | ![Progress](https://progress-bar.dev/85/?title=Advanced&color=0099DD) | Scalable backends, authentication, async requests |
 | 📊 **Power BI / Data Analytics** | ![Progress](https://progress-bar.dev/90/?title=Advanced&color=0078D4) | KPI dashboards, DAX, time intelligence |
 | 🤖 **Machine Learning** | ![Progress](https://progress-bar.dev/80/?title=Strong&color=22C55E) | Regression, forecasting, model deployment |
