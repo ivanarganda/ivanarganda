@@ -16,31 +16,7 @@
 | ⚙️ **Flask / FastAPI** | ![Progress](https://progress-bar.dev/85/?title=Advanced&color=0099DD) | Scalable backends, authentication, async requests |
 | 📊 **Power BI / Data Analytics** | ![Progress](https://progress-bar.dev/90/?title=Advanced&color=0078D4) | KPI dashboards, DAX, time intelligence |
 | 🤖 **Machine Learning** | ![Progress](https://progress-bar.dev/80/?title=Strong&color=22C55E) | Regression, forecasting, model deployment |
-| 🎨 **UI/UX & Web Design** | <svg width="140" height="140" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg"
-     data-progress="85" data-color="#00B4FF">
-  <circle cx="60" cy="60" r="54" stroke="#1e293b" stroke-width="10" fill="none" />
-  <circle id="bar" cx="60" cy="60" r="54" stroke="#00B4FF" stroke-width="10" fill="none"
-          stroke-linecap="round" transform="rotate(-90 60 60)"
-          stroke-dasharray="339.29" stroke-dashoffset="339.29" />
-  <text id="text" x="60" y="65" text-anchor="middle" font-size="22" fill="#00B4FF"
-        font-family="Verdana">0%</text>
-
-  <script type="application/ecmascript"><![CDATA[
-    const svg = document.currentScript.ownerSVGElement;
-    const bar = svg.querySelector('#bar');
-    const text = svg.querySelector('#text');
-    const percent = parseFloat(svg.dataset.progress) || 0;
-    const color = svg.dataset.color || '#00B4FF';
-    const radius = 54;
-    const circ = 2 * Math.PI * radius;
-    const offset = circ - (circ * percent / 100);
-    bar.setAttribute('stroke', color);
-    bar.setAttribute('stroke-dashoffset', offset);
-    text.textContent = percent + '%';
-    text.setAttribute('fill', color);
-  ]]></script>
-</svg>
- | Glassmorphism, modern layouts, responsive design |
+| 🎨 **UI/UX & Web Design** | ![Progress](https://progress-bar.dev/88/?title=Proficient&color=F59E0B) | Glassmorphism, modern layouts, responsive design |
 | 🚀 **Async & API Integration** | ![Progress](https://progress-bar.dev/75/?title=Good&color=14B8A6) | AsyncIO, threading, API pipelines |
 
 
