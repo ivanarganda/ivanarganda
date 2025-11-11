@@ -16,8 +16,8 @@
 | ⚙️ **Flask / FastAPI** | <img src="progress-70.svg" width="100"> | Scalable backends, authentication, async requests |
 | 📊 **Power BI / Data Analytics** | <img src="progress-81.svg" width="100">| KPI dashboards, DAX, time intelligence |
 | 🤖 **Machine Learning** | <img src="progress-50.svg" width="100"> | Regression, forecasting, model deployment |
-| 🎨 **UI/UX & Web Design** | <img src="progress-85.svg" width="100"> | Glassmorphism, modern layouts, responsive design |
-| 🚀 **Async & API Integration** | <img src="progress-85.svg" width="100"> | AsyncIO, threading, API pipelines |
+| 🎨 **UI/UX & Web Design** | <img src="progress-94.svg" width="100"> | Glassmorphism, modern layouts, responsive design |
+| 🚀 **Async & API Integration** | <img src="progress-70.svg" width="100"> | AsyncIO, threading, API pipelines |
 
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivangonzalezvalles@gmail.com)
