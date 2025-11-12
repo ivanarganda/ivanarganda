@@ -92,7 +92,7 @@ Python · Flask · FastAPI · SQLite · HTML · CSS · JavaScript · React · Gi
 ## Web development ( HTML - CSS - Javacript - PHP - MySQL - React - JQuery
 | 🔗 Project | 💡 Description | 🛠️ Stack
 |-------------|----------------|-----------|
-| [Flask Portfolio](https://github.com/ivanarganda/portafolio) | Personal web with contact form and project viewer | PHP · HTML · CSS · JS |
+| [Flask Portfolio](https://github.com/ivanarganda/portfolio/tree/main) | Personal web with contact form and project viewer | React · HTML · CSS · JS |
 | [Flask Portfolio](https://github.com/ivanarganda/controlfichajes) | Clock in-out app | PHP · HTML · CSS · JS |
 
 ## Excel Management and Data Anañyst ( VBA - KPI Dashboard - Formules - Pivot tables )
