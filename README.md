@@ -92,15 +92,15 @@ Python · Flask · FastAPI · SQLite · HTML · CSS · JavaScript · React · Gi
 ## Web development ( HTML - CSS - Javacript - PHP - MySQL - React - JQuery
 | 🔗 Project | 💡 Description | 🛠️ Stack
 |-------------|----------------|-----------|
-| [Flask Portfolio](https://github.com/ivanarganda/portfolio/tree/main) | Personal web with contact form and project viewer | React · HTML · CSS · JS |
-| [Flask Portfolio](https://github.com/ivanarganda/controlfichajes) | Clock in-out app | PHP · HTML · CSS · JS |
+| [Portfolio](https://github.com/ivanarganda/portfolio/tree/main) | Personal web with contact form and project viewer | React · HTML · CSS · JS |
+| [App clock in-out](https://github.com/ivanarganda/controlfichajes) | Clock in-out app | PHP · HTML · CSS · JS |
 
 ## Excel Management and Data Anañyst ( VBA - KPI Dashboard - Formules - Pivot tables )
 | 🔗 Project | 💡 Description | 🛠️ Stack
 |-------------|----------------|-----------|
 | [Concesionary Dashboard Excel](https://github.com/ivanarganda/proyectosExcel/tree/main/concesionario) | Vehicles in sale and his customers | KPI · Percentages · Progress · Charts |
-| [Concesionary Dashboard Excel](https://github.com/ivanarganda/proyectosExcel/tree/main/tiendas) | Stores in sale and his customers | KPI · Percentages · Progress · Charts |
-| [Concesionary Dashboard Excel](https://github.com/ivanarganda/proyectosExcel/tree/main/transportes) | Transport about logistic | KPI · Percentages · Progress · Charts |
+| [Store Dashboard Excel](https://github.com/ivanarganda/proyectosExcel/tree/main/tiendas) | Stores in sale and his customers | KPI · Percentages · Progress · Charts |
+| [Transport Dashboard Excel](https://github.com/ivanarganda/proyectosExcel/tree/main/transportes) | Transport about logistic | KPI · Percentages · Progress · Charts |
 
 ## Power BI Data Anañyst ( DAX - Modelling - M - KPIS - Visual Objects
 | 🔗 Project | 💡 Description | 🛠️ Stack
@@ -111,7 +111,7 @@ Python · Flask · FastAPI · SQLite · HTML · CSS · JavaScript · React · Gi
 | 🔗 Project | 💡 Description | 🛠️ Stack
 |-------------|----------------|-----------|
 | [OmniMind](https://github.com/ivanarganda/proyectosFlet/tree/main/OmniMind) | Multi-module data & AI platform | Python · Flet · Flask · SQLite |
-| [DataMind](https://github.com/ivanarganda/DataMind) | Automated data cleaning & dashboard builder | Python · Pandas · Plotly |
+| [Web scrapping ( coinmarket )](https://github.com/ivanarganda/proyectosFlet/tree/main/webscrapping/coinmarket) | Scrapping & automatization data | Python · Pandas · Threads |
 | [Crypto Predictor](https://github.com/ivanarganda/CryptoPredictor) | Prophet-based forecasting tool | Python · Prophet · Pandas |
 
 ---
