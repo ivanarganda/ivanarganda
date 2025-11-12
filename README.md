@@ -118,7 +118,8 @@ Python · Flask · FastAPI · SQLite · HTML · CSS · JavaScript · React · Gi
 
 ## 📄 My Professional CV
 
-[![View CV](https://img.shields.io/badge/Open%20CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/ivanarganda/portfolio/blob/main/CV_IvanGonzalez.pdf?raw=true)
+[![View CV](https://img.shields.io/badge/Open%20CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/ivanarganda/wsportfolio/blob/main/documents/Iv%C3%A1n%20Gonz%C3%A1lez-CV-Desarrollador-Analista.pdf?raw=true)
+
 
 *(Click to open in a new tab)*
 
