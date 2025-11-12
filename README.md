@@ -2,6 +2,8 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2800&pause=1000&color=00B4FF&center=true&vCenter=true&width=650&lines=👋+Hi%2C+I'm+Iván+González+Vallés;💡+Data+Analyst+%7C+Python+%26+Web+Developer;🚀+AI+and+Big+Data+Enthusiast;🎯+Turning+data+into+intelligent+experiences!)
 
+[![View CV](https://img.shields.io/badge/Open%20CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/ivanarganda/wsportfolio/blob/main/documents/Iv%C3%A1n%20Gonz%C3%A1lez-CV-Desarrollador-Analista.pdf?raw=true)
+
 ## ⚡ Skill Snapshot
 
 🎨 **Tech Stack Overview**
