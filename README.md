@@ -6,12 +6,13 @@
 
 🎨 **Tech Stack Overview**
 
-`Python` • `Flask` • `FastAPI` • `Flet` • `Pandas` • `Power BI` • `Plotly` • `SQLite` • `HTML` • `CSS` • `JavaScript` • `React`
+`PHP` • `Python` • `Flask` • `FastAPI` • `Flet` • `Pandas` • `Power BI` • `Plotly` • `SQLite` • `HTML` • `CSS` • `JavaScript` • `React`
 
 ## 🎯 My Progress
 
 | Skill | Progress | Description |
 |-------|-----------|--------------|
+| 🐘 **PHP Development** | <img src="progress-94.svg" width="100"> | Building web apps, APIs, and scripting automation tools |
 | 🐍 **Python Development** | <img src="progress-85.svg" width="100"> | Building apps, APIs, and automation tools |
 | ⚙️ **Flask / FastAPI** | <img src="progress-70.svg" width="100"> | Scalable backends, authentication, async requests |
 | 📊 **Excel / Data Analytics** | <img src="progress-81.svg" width="100">| KPI dashboards, Pivot tables, formules |
@@ -88,19 +89,19 @@ Python · Flask · FastAPI · SQLite · HTML · CSS · JavaScript · React · Gi
 
 ## 🚀 My Projects Portfolio
 
-| Web development ( HTML - CSS - Javacript - PHP - MySQL - React - JQuery) |
-| 🔗 Project | 💡 Description | 🛠️ Stack |
-| [Flask Portfolio](https://github.com/ivanarganda/WebPortfolio) | Personal web with contact form and project viewer | Flask · HTML · CSS · JS |
+| Web development ( HTML - CSS - Javacript - PHP - MySQL - React - JQuery)
+| 🔗 Project | 💡 Description | 🛠️ Stack
+| [Flask Portfolio](https://github.com/ivanarganda/WebPortfolio) | Personal web with contact form and project viewer | Flask · HTML · CSS · JS
 
 | Excel Management and Data Anañyst ( VBA - KPI Dashboard - Formules - Pivot tables )|
-| [Concesionary Dashboard Excel](https://github.com/ivanarganda/proyectosExcel/tree/main/concesionario) | Vehicles in sale and his customers | KPI · Percentages · Progress · Charts |
+| [Concesionary Dashboard Excel](https://github.com/ivanarganda/proyectosExcel/tree/main/concesionario) | Vehicles in sale and his customers | KPI · Percentages · Progress · Charts
 
-| Power BI Data Anañyst ( DAX - Modelling - M - KPIS - Visual Objects )|
-| 🔗 Project | 💡 Description | 🛠️ Stack |
-| [Sales Dashboard Power BI](https://github.com/ivanarganda/SalesDashboard) | Interactive BI dashboard | Power BI · DAX |
+| Power BI Data Anañyst ( DAX - Modelling - M - KPIS - Visual Objects )
+| 🔗 Project | 💡 Description | 🛠️ Stack
+| [Sales Dashboard Power BI](https://github.com/ivanarganda/SalesDashboard) | Interactive BI dashboard | Power BI · DAX
 
-| Python Data Analyst and development ( Pandas - Machine learning - Cohere CHAT - Flask - Flet ) |
-| 🔗 Project | 💡 Description | 🛠️ Stack |
+| Python Data Analyst and development ( Pandas - Machine learning - Cohere CHAT - Flask - Flet )
+| 🔗 Project | 💡 Description | 🛠️ Stack
 |-------------|----------------|-----------|
 | [OmniMind](https://github.com/ivanarganda/proyectosFlet/tree/main/OmniMind) | Multi-module data & AI platform | Python · Flet · Flask · SQLite |
 | [DataMind](https://github.com/ivanarganda/DataMind) | Automated data cleaning & dashboard builder | Python · Pandas · Plotly |
