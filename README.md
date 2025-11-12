@@ -91,14 +91,16 @@ Python · Flask · FastAPI · SQLite · HTML · CSS · JavaScript · React · Gi
 
 | Web development ( HTML - CSS - Javacript - PHP - MySQL - React - JQuery)
 | 🔗 Project | 💡 Description | 🛠️ Stack
-| [Flask Portfolio](https://github.com/ivanarganda/WebPortfolio) | Personal web with contact form and project viewer | Flask · HTML · CSS · JS
+|-------------|----------------|-----------|
+| [Flask Portfolio](https://github.com/ivanarganda/WebPortfolio) | Personal web with contact form and project viewer | Flask · HTML · CSS · JS |
 
 | Excel Management and Data Anañyst ( VBA - KPI Dashboard - Formules - Pivot tables )|
-| [Concesionary Dashboard Excel](https://github.com/ivanarganda/proyectosExcel/tree/main/concesionario) | Vehicles in sale and his customers | KPI · Percentages · Progress · Charts
+| [Concesionary Dashboard Excel](https://github.com/ivanarganda/proyectosExcel/tree/main/concesionario) | Vehicles in sale and his customers | KPI · Percentages · Progress · Charts |
 
 | Power BI Data Anañyst ( DAX - Modelling - M - KPIS - Visual Objects )
 | 🔗 Project | 💡 Description | 🛠️ Stack
-| [Sales Dashboard Power BI](https://github.com/ivanarganda/SalesDashboard) | Interactive BI dashboard | Power BI · DAX
+|-------------|----------------|-----------|
+| [Sales Dashboard Power BI](https://github.com/ivanarganda/SalesDashboard) | Interactive BI dashboard | Power BI · DAX |
 
 | Python Data Analyst and development ( Pandas - Machine learning - Cohere CHAT - Flask - Flet )
 | 🔗 Project | 💡 Description | 🛠️ Stack
