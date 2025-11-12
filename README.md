@@ -95,7 +95,11 @@ Python · Flask · FastAPI · SQLite · HTML · CSS · JavaScript · React · Gi
 | [Flask Portfolio](https://github.com/ivanarganda/WebPortfolio) | Personal web with contact form and project viewer | Flask · HTML · CSS · JS |
 
 | Excel Management and Data Anañyst ( VBA - KPI Dashboard - Formules - Pivot tables )|
+| 🔗 Project | 💡 Description | 🛠️ Stack
+|-------------|----------------|-----------|
 | [Concesionary Dashboard Excel](https://github.com/ivanarganda/proyectosExcel/tree/main/concesionario) | Vehicles in sale and his customers | KPI · Percentages · Progress · Charts |
+| [Concesionary Dashboard Excel](https://github.com/ivanarganda/proyectosExcel/tree/main/tiendas) | Stores in sale and his customers | KPI · Percentages · Progress · Charts |
+| [Concesionary Dashboard Excel](https://github.com/ivanarganda/proyectosExcel/tree/main/transportes) | Transport about logistic | KPI · Percentages · Progress · Charts |
 
 | Power BI Data Anañyst ( DAX - Modelling - M - KPIS - Visual Objects )
 | 🔗 Project | 💡 Description | 🛠️ Stack
