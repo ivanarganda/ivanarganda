@@ -107,14 +107,14 @@ Python · Flask · FastAPI · SQLite · HTML · CSS · JavaScript · React · Gi
 ## Power BI Data Anañyst ( DAX - Modelling - M - KPIS - Visual Objects
 | 🔗 Project | 💡 Description | 🛠️ Stack
 |-------------|----------------|-----------|
-| [Sales Dashboard Power BI](https://github.com/ivanarganda/SalesDashboard) | Interactive BI dashboard | Power BI · DAX |
+| [Concesionary Sales Dashboard Power BI](https://github.com/ivanarganda/proyectosPowerBI/tree/main/concesionario) | Interactive BI concesionary dashboard | Power BI · DAX |
 
 ## Python Data Analyst and development ( Pandas - Machine learning - Cohere CHAT - Flask - Flet )
 | 🔗 Project | 💡 Description | 🛠️ Stack
 |-------------|----------------|-----------|
 | [OmniMind](https://github.com/ivanarganda/proyectosFlet/tree/main/OmniMind) | Multi-module data & AI platform | Python · Flet · Flask · SQLite |
 | [Web scrapping ( coinmarket )](https://github.com/ivanarganda/proyectosFlet/tree/main/webscrapping/coinmarket) | Scrapping & automatization data | Python · Pandas · Threads |
-| [Crypto Predictor](https://github.com/ivanarganda/CryptoPredictor) | Prophet-based forecasting tool | Python · Prophet · Pandas |
+| [Crypto Predictor](https://github.com/ivanarganda/proyectosFlet/tree/main/pronostico_ventas) | Prophet-based forecasting tool | Python · Prophet · Pandas |
 
 ---
 
