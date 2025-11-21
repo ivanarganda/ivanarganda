@@ -55,9 +55,10 @@ Python · Flask · FastAPI · SQLite · HTML · CSS · JavaScript · React · Gi
 | 🚀 Project | 💡 Description | 🛠️ Stack |
 |-------------|----------------|-----------|
 | [OmniMind](https://github.com/ivanarganda/proyectosFlet/tree/main/OmniMind) | Modular app combining analytics, AI, web interfaces and games | Python · Flet · Flask · SQLite · JWT |
-| [DataMind](https://github.com/ivanarganda/DataMind) | Smart suite for data cleaning and dynamic dashboard generation | Python · Pandas · Plotly · Power BI |
-| [Web Dashboard Kit](https://github.com/ivanarganda/WebDashboardKit) | Responsive dashboards for analytics visualization | HTML · CSS · JS · Flask |
-| [Crypto Predictor](https://github.com/ivanarganda/CryptoPredictor) | Time-series prediction using Prophet and Pandas | Python · Prophet · Matplotlib |
+| [SQLORM](https://github.com/ivanarganda/proyectosFlet/tree/main/DatabaseORM) | Smart suite for query data SQL | Python · Numpy · SQlite |
+| [Concesionary Dashboard](https://github.com/ivanarganda/proyectosExcel/tree/main/concesionario) | Concesionary dashboards for analytics visualization | Power BI |
+| [Crypto Predictor](https://github.com/ivanarganda/proyectosFlet/tree/main/pronostico_ventas) | Time-series prediction using Prophet and Pandas | Python · Prophet · Matplotlib |
+| [Popup menu flet](https://github.com/ivanarganda/proyectosFlet/tree/main/paquetes_pip/flet_popupmenu-0.0.X) | Time-series prediction using Prophet and Pandas | Python · Prophet · Matplotlib |
 
 ---
 
@@ -115,6 +116,12 @@ Python · Flask · FastAPI · SQLite · HTML · CSS · JavaScript · React · Gi
 | [OmniMind](https://github.com/ivanarganda/proyectosFlet/tree/main/OmniMind) | Multi-module data & AI platform | Python · Flet · Flask · SQLite |
 | [Web scrapping ( coinmarket )](https://github.com/ivanarganda/proyectosFlet/tree/main/webscrapping/coinmarket) | Scrapping & automatization data | Python · Pandas · Threads |
 | [Crypto Predictor](https://github.com/ivanarganda/proyectosFlet/tree/main/pronostico_ventas) | Prophet-based forecasting tool | Python · Prophet · Pandas |
+
+## Python Packages PIP and libreries
+| 🔗 Project | 💡 Description | 🛠️ Stack
+|-------------|----------------|-----------|
+| [Popup menu flet](https://github.com/ivanarganda/proyectosFlet/tree/main/paquetes_pip/flet_popupmenu-0.0.X) | Time-series prediction using Prophet and Pandas | Python · Prophet · Matplotlib |
+| [SQLORM](https://github.com/ivanarganda/proyectosFlet/tree/main/DatabaseORM) | Smart suite for query data SQL | Python · Numpy · SQlite |
 
 ---
 
