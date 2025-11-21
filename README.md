@@ -58,7 +58,7 @@ Python · Flask · FastAPI · SQLite · HTML · CSS · JavaScript · React · Gi
 | [SQLORM](https://github.com/ivanarganda/proyectosFlet/tree/main/DatabaseORM) | Smart suite for query data SQL | Python · Numpy · SQlite |
 | [Concesionary Dashboard](https://github.com/ivanarganda/proyectosExcel/tree/main/concesionario) | Concesionary dashboards for analytics visualization | Power BI |
 | [Crypto Predictor](https://github.com/ivanarganda/proyectosFlet/tree/main/pronostico_ventas) | Time-series prediction using Prophet and Pandas | Python · Prophet · Matplotlib |
-| [Popup menu flet](https://github.com/ivanarganda/proyectosFlet/tree/main/paquetes_pip/flet_popupmenu-0.0.X) | Time-series prediction using Prophet and Pandas | Python · Prophet · Matplotlib |
+| [Popup menu flet](https://github.com/ivanarganda/proyectosFlet/tree/main/paquetes_pip/flet_popupmenu-0.0.X) | Pip package component | Python · flet · API Flask |
 
 ---
 
@@ -120,7 +120,7 @@ Python · Flask · FastAPI · SQLite · HTML · CSS · JavaScript · React · Gi
 ## Python Packages PIP and libreries
 | 🔗 Project | 💡 Description | 🛠️ Stack
 |-------------|----------------|-----------|
-| [Popup menu flet](https://github.com/ivanarganda/proyectosFlet/tree/main/paquetes_pip/flet_popupmenu-0.0.X) | Time-series prediction using Prophet and Pandas | Python · Prophet · Matplotlib |
+| [Popup menu flet](https://github.com/ivanarganda/proyectosFlet/tree/main/paquetes_pip/flet_popupmenu-0.0.X) | Pip package component | Python · flet · API Flask |
 | [SQLORM](https://github.com/ivanarganda/proyectosFlet/tree/main/DatabaseORM) | Smart suite for query data SQL | Python · Numpy · SQlite |
 
 ---
